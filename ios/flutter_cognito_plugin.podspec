@@ -22,9 +22,9 @@ A new flutter plugin project.
   s.swift_version = '5.0'
 
   s.dependency 'plugin_scaffold'
-  s.dependency 'AWSMobileClient', '~> 2.17.0'
-  s.dependency 'AWSAuth', '~> 2.17.0'
-  s.dependency 'AWSCognito', '~> 2.17.0'
-  s.dependency 'AWSAuthUI', '~> 2.17.0'
-  s.dependency 'AWSUserPoolsSignIn', '~> 2.17.0'
+  s.dependency 'AWSMobileClient', '~> 2.18.0'
+  s.dependency 'AWSAuth', '~> 2.18.0'
+  s.dependency 'AWSCognito', '~> 2.18.0'
+  s.dependency 'AWSAuthUI', '~> 2.18.0'
+  s.dependency 'AWSUserPoolsSignIn', '~> 2.18.0'
 end
